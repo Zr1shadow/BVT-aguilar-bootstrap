@@ -1,0 +1,38 @@
+10/10/23
+3:40am - 4:35AM Working on wireframes
+	* Basically recreated a barebones gmail for mobile viewport
+	* realized i can still use google for meduim and bigger viewports and only have to work on two viewports
+
+2:15pm - 3:22pm
+	Worked on mobile view
+		* Finished NavBar layout(navitems have not been added)
+		* A little over half ways done with email section. 
+			* General layout completed. just need to make it look nicer
+6:00pm - 7:00pm 
+	redesigned/updated designs based on Alexander's feedback.
+		*Created 3 column, Added active email(email that is clicked on and should be showing)
+
+10/12/23
+
+11pm- 2am
+	Finished coding layout.
+	Finished navbar for all viewports
+
+10/13/23 
+	10am - 10:30am
+		Worked on email section
+			Finished layout of mobile view for emails 
+	11am - 11:50am
+		Email Section is done for all viewports
+
+	2pm - 2:30pm
+		Finished viewed email
+
+	3pm - 4pm
+		added finishing touches
+			* active/hover affects
+			* greyed text class
+			* searchbar bg
+			* fixing issues that arose
+	5:25pm 
+		Cleaned up code
